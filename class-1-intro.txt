@@ -1,0 +1,30 @@
+COMPILATION --- SAARA CODE AIK SAATH TRanslate hota hai
+
+Interpreter ----- code line by line translate
+
+Full Stack
+
+FullStack ---- - 
+
+Frontend ---- aap khud
+
+DATA -cheeni
+
+Api ----- chota bha
+
+Backend ----  aapki friend
+
+ERROR ---- BUG
+CORRRECT ---- DEBUGGING
+
+
+IDE (Integrated Development Environment (IDE)) -------- VS CODE
+
+
+vs code download > Click first link > click on windows option> download file> double click > accept the agr
+
+1) select folder > right click > open with code
+2) open folder > type cmd in address bar > code .  + Enter
+
+
+

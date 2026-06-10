@@ -1,0 +1,22 @@
+
+
+
+index > fileName ---- root page/home page
+.html > extension 
+
+
+shift + 1 > starter template
+html:5 > starter template
+
+
+HTML > 
+
+Markup / Tag
+
+<> ---- opening tag 
+</> ---- closing tag
+
+ctrl + s ---- save
+file > auto save
+
+
