@@ -1,0 +1,9 @@
+Ask by chatgpt:
+write a basic script variables and data type wih print statement in roblox studio.
+
+Variables: use to store information or data
+Data Type: define the variables data type
+
+when use text information must use inverded commas like this "" this type is called string.
+
+When use condition statement like yes no, so use only true false as information this type is called boolean.

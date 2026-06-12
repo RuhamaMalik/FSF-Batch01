@@ -1,0 +1,18 @@
+GUI  -------- graphical user interface
+
+CLI --------- command line interface
+
+
+-search python > python.org > downloads > Download Python install manager
+- double click > install python
+-  cmd > python --version
+- got to vs code > extension tab > search python > install python
+
+; ---------- statement terminator
+
+- Home work (learn flex and media query)
+- JS and python Intro
+
+'' , "",  (backticks )
+
+console.log('your text/message')
