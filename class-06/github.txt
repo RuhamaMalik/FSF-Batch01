@@ -1,0 +1,53 @@
+---------- create github account (web based service)
+
+search Github > github.com > SignUp > continue with google > select your google acount > continue > continue
+
+> Username > pakistan > click on create account > solve puzzle > congratulations!
+
+------------ install git (software)
+
+seach git > https://git-scm.com/ Install for windows > Click here to download 
+> go to download folder > double click > install > Finish
+
+> right click on folder > open git bash here
+
+
+------------- create repository
+
+> new > repo name > description(optinal) > create repository
+> cmd > git clone <paste repo URL> 
+
+
+> apna kaam karlen
+
+> folder > right click > open git bash here 
+
+- credential manager> windows credential > github remove
+
+git config --global user.name "your github username"
+git config --global user.emal "your github email" 
+
+(one time)
+
+
+git add .
+git commit -m "your message"
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
