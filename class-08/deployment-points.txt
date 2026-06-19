@@ -1,0 +1,8 @@
+(Deployment)
+
+index.html  ---- root directory/ main folder
+
+- repository setting > Pages > select master/main > save 
+- little wait > reload page
+
+- copy live URL > code > about setting > website URL + link paste > save changes
