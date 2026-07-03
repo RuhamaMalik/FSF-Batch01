@@ -68,10 +68,37 @@
 ///////////////////////
 
 let numInput = document.getElementById('xyz');
+let h1 = document.getElementById('abcd');
+let main = document.getElementById("main");
+
+function checkNum() { // declare function
+  //  console.log( Number(numInput.value));
+  //  console.log(typeof Number(numInput.value));
+  // console.log(numInput.value); // ""
+
+  h1.style.backgroundColor ="";
+
+  if (numInput.value == "") {
+    // h1.innerHTML = '<hr><b>Hello</b>'
+    h1.innerText = 'Number is Required!';
+    h1.style.color = 'red';
+    main.style.backgroundColor = 'aqua';
+  } else if (Number(numInput.value) % 2 === 0) {
+    h1.innerText = 'The Number is Even!';
+    h1.style.color = 'green';
+    main.style.backgroundColor = 'rgb(86, 204, 164)'
+  } else {
+    h1.innerText = 'The Number is Odd!';
+    h1.style.color = 'yellow';
+    h1.style.backgroundColor = 'black';
+    main.style.backgroundColor = 'crimson';
+  }
 
 
-function checkNum (){ // declare function
- console.log(typeof numInput.value);
+
+
+
+
 }
 
 // checkNum(); /// call function

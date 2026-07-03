@@ -5,14 +5,38 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+
+  <style>
+    body{
+      background-color: rgb(36, 102, 189);
+      /* color: rgb(86, 204, 164); */
+    }
+
+    button{
+      border:none;
+      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 5px;
+      background-color: black;
+      color: white;
+    }
+
+    button:hover{
+      background-color: rgb(200, 69, 69);
+    }
+  </style>
 </head>
 
-<body>
+<body id="main">
 
   <form>
-    <input id="xyz" placeholder="Enter a number" type="number"> <br><br>
+    <input required id="xyz" placeholder="Enter a number" type="number"> <br><br>
     <button type="button" onclick="checkNum()">Submit</button>
   </form>
+
+  
+<h1 id="abcd"></h1>
+
 
   <script src="./index.js"></script>
 </body>
