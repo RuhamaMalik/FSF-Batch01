@@ -55,17 +55,27 @@
 
 ///////////////////////
 
-let percentange = +prompt(`What's your Percentag?`);
+// let percentange = +prompt(`What's your Percentag?`);
 
-if (percentange >= 80) {
-  console.log(`A+ Grade`);
-} else if (percentange >= 70) {
-  console.log(`A Grade`);
-} else if (percentange >= 60) {
-  console.log(`B Grade`);
-} else if (percentange >= 50) {
-  console.log(`C Grade`);
-} else {
-  console.log('Fail');
-}
+
+// if (percentange >= 0 && percentange <= 100) {
+
+
+//   if (percentange >= 80) {
+//     console.log(`A+ Grade`);
+//   } else if (percentange >= 70) {
+//     console.log(`A Grade`);
+//   } else if (percentange >= 60) {
+//     console.log(`B Grade`);
+//   } else if (percentange >= 50) {
+//     console.log(`C Grade`);
+//   } else {
+//     console.log('Fail');
+//   }
+
+
+// } else {
+//   console.log('Invalid Percentage!');
+// }
+
 
