@@ -288,3 +288,8 @@ for(let i=0; i<products.length; i++){
 
 container.innerHTML = html;
 
+
+
+
+
+
